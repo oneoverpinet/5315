@@ -18,12 +18,12 @@
             success: function(xml) {  
              $(xml).find('data').each(function(){  
               t.row.add( [
-                $(this).find('name').text(),
-                $(this).find('designation').text(),
-                $(this).find('office').text(),
-                $(this).find('employeeid').text(),
-                $(this).find('joining_date').text(),
-                $(this).find('salary').text()
+                $(this).find('song').text(),
+                $(this).find('artist').text(),
+                $(this).find('album').text(),
+                $(this).find('release_date').text(),
+                $(this).find('genre').text(),
+                $(this).find('rating').text()
               ] ).draw( false );
              });
             }
@@ -36,12 +36,12 @@
   <table id="chart" class="display" cellspacing="0" width="100%">
     <thead>
         <tr>
-            <th>Name</th>
-            <th>Designation</th>
-            <th>Office</th>
-            <th>EmployeeID</th>
-            <th>Joining Date</th>
-            <th>Salary</th>
+            <th>Song</th>
+            <th>Artist</th>
+            <th>Album</th>
+            <th>Release_Date</th>
+            <th>Genre</th>
+            <th>Rating</th>
         </tr>
     </thead>
 

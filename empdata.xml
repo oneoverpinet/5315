@@ -1,123 +1,123 @@
 <?xml version="1.0" encoding="UTF-8" ?>
   <employees>
     <data>
-      <name>James Con</name>
-      <designation>Owner</designation>
-      <salary>$570,750</salary>
-      <joining_date>1921/01/25</joining_date>
-      <office>New York</office>
-      <employeeid>8422</employeeid>
+      <song>The House that Jack Built</song>
+      <artist>Aretha Franklin</artist>
+      <album>The Queen of Soul</album>
+      <release_date>1971</release_date>
+      <genre>Soul</genre>
+      <rating>****</rating>
     </data>
     <data>
-      <name>Mary Dobbs</name>
-      <designation>Office Manager</designation>
-      <salary>$18,000</salary>
-      <joining_date>1921/12/02</joining_date>
-      <office>New York</office>
-      <employeeid>8423</employeeid>
+      <song>Help!</song>
+      <artist>The Beatles</artist>
+      <album>Help!</album>
+      <release_date>1965</release_date>
+      <genre>Rock</genre>
+      <rating>****</rating>
+    </data> 
+    <data>    
+      <song>Redemption Song</song>
+      <artist>Bob Marley</artist>
+      <album>Uprising</album>
+      <release_date>1980</release_date>
+      <genre>Reggae</genre>
+      <rating>***</rating>
     </data>
     <data>
-      <name>Bill Kells</name>
-      <designation>Sales Representative</designation>
-      <salary>$8,000</salary>
-      <joining_date>1922/01/12</joining_date>
-      <office>San Francisco</office>
-      <employeeid>8424</employeeid>
+      <song>Everyday</song>
+      <artist>Buddy Holly</artist>
+      <album>Buddy Holly - Not Fade Away</album>
+      <release_date>2008</release_date>
+      <genre>Rock</genre>
+      <rating>****</rating>
     </data>
     <data>
-      <name>John Dobbs</name>
-      <designation>Accountant</designation>
-      <salary>$16,700</salary>
-      <joining_date>1923/11/28</joining_date>
-      <office>Portland</office>
-      <employeeid>8425</employeeid>
+      <song>Wooden Ships</song>
+      <artist>Crosby, Stills, and Nash</artist>
+      <album>Crosby, Stills, and Nash</album>
+      <release_date>1971</release_date>
+      <genre>Rock</genre>
+      <rating>****</rating>
     </data>
     <data>
-      <name>Vince Craft</name>
-      <designation>Shipping and Receiving</designation>
-      <salary>$10,450</salary>
-      <joining_date>1928/12/12</joining_date>
-      <office>New York</office>
-      <employeeid>8426</employeeid>
+      <song>Song for Bob Dylan</song>
+      <artist>David Bowie</artist>
+      <album>Hunky Dory</album>
+      <release_date>2015</release_date>
+      <genre>Glam Rock</genre>
+      <rating>****</rating>
     </data>
     <data>
-      <name>Dan Thompson</name>
-      <designation>Regional Director</designation>
-      <salary>$35,000</salary>
-      <joining_date>1930/11/13</joining_date>
-      <office>San Francisco</office>
-      <employeeid>8427</employeeid>
+      <song>Summertime</song>
+      <artist>Dinah Washington</artist>
+      <album>Dinah Jams</album>
+      <release_date>1954</release_date>
+      <genre>Jazz</genre>
+      <rating>****</rating>
     </data>
     <data>
-      <name>Bob Thompson</name>
-      <designation>Production Manager</designation>
-      <salary>$23,060</salary>
-      <joining_date>1930/03/29</joining_date>
-      <office>San Francisco</office>
-      <employeeid>8428</employeeid>
+      <song>Helpin Hand</song>
+      <artist>Dr. John</artist>
+      <album>The Blues Biography</album>
+      <release_date>2006</release_date>
+      <genre>R&B</genre>
+      <rating>****</rating>
     </data>
     <data>
-      <name>Brian Craft</name>
-      <designation>Director of Operations</designation>
-      <salary>$31,500</salary>
-      <joining_date>1930/12/18</joining_date>
-      <office>San Francicso</office>
-      <employeeid>8429</employeeid>
+      <song>I Asked for Water</song>
+      <artist>Howlin' Wolf</artist>
+      <album>His Best: The Chess 50th Anniversary Collection</album>
+      <release_date>1997</release_date>
+      <genre>Blues</genre>
+      <rating>****</rating>
     </data>
     <data>
-      <name>Cindy Ellis</name>
-      <designation>Secretary</designation>
-      <salary>$10,500</salary>
-      <joining_date>1932/09/15</joining_date>
-      <office>San Francisco</office>
-      <employeeid>8430</employeeid>
+      <song>Wait Until Tomorrow</song>
+      <artist>Jimi Hendrix</artist>
+      <album>Axis: Bold as Love</album>
+      <release_date>1967</release_date>
+      <genre>Classic Rock</genre>
+      <rating>***</rating>
     </data>
     <data>
-      <name>David Dabson</name>
-      <designation>Longshoreman</designation>
-      <salary>$21,500</salary>
-      <joining_date>1933/09/26</joining_date>
-      <office>New York</office>
-      <employeeid>8431</employeeid>
+      <song>Instant Karma</song>
+      <artist>John Lennon</artist>
+      <album>The John Lennon Collection</album>
+      <release_date>1980</release_date>
+      <genre>Pop</genre>
+      <rating>****</rating>
     </data>
     <data>
-      <name>Bill Burns</name>
-      <designation>Project Manager</designation>
-      <salary>$33,500</salary>
-      <joining_date>1935/08/06</joining_date>
-      <office>San Francisco</office>
-      <employeeid>8432</employeeid>
+      <song>Move</song>
+      <artist>Miles Davis</artist>
+      <album>Birth of the Cool</album>
+      <release_date>1949</release_date>
+      <genre>Jazz</genre>
+      <rating>****</rating>
     </data>
     <data>
-      <name>Rhonda Davis</name>
-      <designation>Office Manager</designation>
-      <salary>$32,900</salary>
-      <joining_date>1937/10/14</joining_date>
-      <office>New York</office>
-      <employeeid>8433</employeeid>
+      <song>Heart of Gold</song>
+      <artist>Neil Young</artist>
+      <album>Harvest</album>
+      <release_date>1972</release_date>
+      <genre>Rock</genre>
+      <rating>****</rating>
     </data>
     <data>
-      <name>Tom Frost</name>
-      <designation>Manufacturing Lead</designation>
-      <salary>$23,600</salary>
-      <joining_date>1939/12/13</joining_date>
-      <office>New York</office>
-      <employeeid>8434</employeeid>
+      <song>One of these Days</song>
+      <artist>Pink Floyd</artist>
+      <album>Meddle</album>
+      <release_date>1971</release_date>
+      <genre>Art & Progressive Rock</genre>
+      <rating>*** 1/2</rating>
     </data>
     <data>
-      <name>J Geills</name>
-      <designation>Shop Floor Control</designation>
-      <salary>$29,560</salary>
-      <joining_date>1945/12/19</joining_date>
-      <office>New York</office>
-      <employeeid>8435</employeeid>
-    </data>
-    <data>
-      <name>Bob Jones</name>
-      <designation>Operations Supervisor</designation>
-      <salary>$24,000</salary>
-      <joining_date>1948/03/03</joining_date>
-      <office>San Francisco</office>
-      <employeeid>8436</employeeid>
+      <song>Ruby Tuesday</song>
+      <artist>The Rolling Stones</artist>
+      <album>Through the Past Darkly</album>
+      <release_date>1969</release_date>
+      <genre>Rock</genre>
+      <rating>*** 1/2</rating>
     </data>
   </employees>

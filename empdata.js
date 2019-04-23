@@ -1,124 +1,124 @@
 {
   "data": [
     {
-      "name": "James Conned",
-      "designation": "Accountant",
-      "salary": "$170,750",
-      "joining_date": "2011/07/25",
-      "office": "Tokyo",
-      "extension": "8422"
+      "song": "The House that Jack Built",
+      "artist": "Aretha Franklin",
+      "album": "The Queen of Soul",
+      "release_date": "1971",
+      "genre": "Soul",
+      "rating": "****"
     },
     {
-      "name": "Brie Middle",
-      "designation": "Integration Specialist",
-      "salary": "$372,000",
-      "joining_date": "2012/12/02",
-      "office": "New York",
-      "extension": "4804"
+      "song": "Help!",
+      "artist": "The Beatles",
+      "album": "Help!",
+      "release_date": "1965",
+      "genre": "Rock",
+      "rating": "****"
     },
     {
-      "name": "Short Story",
-      "designation": "Junior Technical Author",
-      "salary": "$86,000",
-      "joining_date": "2009/01/12",
-      "office": "San Francisco",
-      "extension": "1562"
+      "song": "Redemption Song",
+      "artist": "Bob Marley",
+      "album": "Uprising",
+      "release_date": "1980",
+      "genre": "Reggae",
+      "rating": "***"
     },
     {
-      "name": "Mr. Bean",
-      "designation": "Accountant",
-      "salary": "$162,700",
-      "joining_date": "2008/11/28",
-      "office": "Tokyo",
-      "extension": "5407"
+      "song": "Everyday",
+      "artist": "Buddy Holly",
+      "album": "Buddy Holly - Not Fade Away",
+      "release_date": "2008",
+      "genre": "Rock",
+      "rating": "****"
     },
     {
-      "name": "Julius Caesar",
-      "designation": "Pre-Sales Support",
-      "salary": "$106,450",
-      "joining_date": "2011/12/12",
-      "office": "New York",
-      "extension": "8330"
+      "song": "Wooden Ships",
+      "artist": "Crosby, Stills, and Nash",
+      "album": "Crosby, Stills, and Nash",
+      "release_date": "1971",
+      "genre": "Rock",
+      "rating": "****"
     },
     {
-      "name": "Shad Perch",
-      "designation": "Regional Director",
-      "salary": "$183,000",
-      "joining_date": "2008/11/13",
-      "office": "Edinburgh",
-      "extension": "6373"
+      "song": "Song for Bob Dylan",
+      "artist": "David Bowie",
+      "album": "Hunky Dory",
+      "release_date": "2015",
+      "genre": "Glam Rock",
+      "rating": "****"
     },
     {
-      "name": "C Kelly",
-      "designation": "Senior Javascript Developer",
-      "salary": "$433,060",
-      "joining_date": "2012/03/29",
-      "office": "Edinburgh",
-      "extension": "6224"
+      "song": "Summertime",
+      "artist": "Dinah Washington",
+      "album": "Dinah Jams",
+      "release_date": "1954",
+      "genre": "Jazz",
+      "rating": "****"
     },
     {
-      "name": "John Robert",
-      "designation": "Senior Marketing Designer",
-      "salary": "$313,500",
-      "joining_date": "2012/12/18",
-      "office": "London",
-      "extension": "3597"
+      "song": "Helpin Hand",
+      "artist": "Dr. John",
+      "album": "The Blues Biography",
+      "release_date": "2006",
+      "genre": "R&B",
+      "rating": "****"
     },
     {
-      "name": "William Hearst",
-      "designation": "Javascript Developer",
-      "salary": "$205,500",
-      "joining_date": "2009/09/15",
-      "office": "San Francisco",
-      "extension": "2360"
+      "song": "I Asked for Water",
+      "artist": "Howlin' Wolf",
+      "album": "His Best: The Chess 50th Anniversary Collection",
+      "release_date": "1997",
+      "genre": "Blues",
+      "rating": "****"
     },
     {
-      "name": "Dee Rios",
-      "designation": "Personnel Lead",
-      "salary": "$217,500",
-      "joining_date": "2012/09/26",
-      "office": "Edinburgh",
-      "extension": "2290"
+      "song": "Wait Until Tomorrow",
+      "artist": "Jimi Hendrix",
+      "album": "Axis: Bold as Love",
+      "release_date": "1967",
+      "genre": "Classic Rock",
+      "rating": "***"
     },
     {
-      "name": "Chandler Friend",
-      "designation": "Sales Assistant",
-      "salary": "$137,500",
-      "joining_date": "2012/08/06",
-      "office": "San Francisco",
-      "extension": "9608"
+      "song": "Instant Karma",
+      "artist": "John Lennon",
+      "album": "The John Lennon Collection",
+      "release_date": "1980",
+      "genre": "Pop",
+      "rating": "****"
     },
     {
-      "name": "Harley Davidson",
-      "designation": "Integration Specialist",
-      "salary": "$327,900",
-      "joining_date": "2010/10/14",
-      "office": "Tokyo",
-      "extension": "6200"
+      "song": "Move",
+      "artist": "Miles Davis",
+      "album": "Birth of the Cool",
+      "release_date": "1949",
+      "genre": "Jazz",
+      "rating": "****"
     },
     {
-      "name": "Robert Frost",
-      "designation": "Software Engineer",
-      "salary": "$103,600",
-      "joining_date": "2008/12/13",
-      "office": "Edinburgh",
-      "extension": "1667"
+      "song": "Heart of Gold",
+      "artist": "Neil Young",
+      "album": "Harvest",
+      "release_date": "1972",
+      "genre": "Rock",
+      "rating": "****"
     },
     {
-      "name": "Jenna Dunn",
-      "designation": "Office Manager",
-      "salary": "$90,560",
-      "joining_date": "2008/12/19",
-      "office": "London",
-      "extension": "3814"
+      "song": "One of these Days",
+      "artist": "Pink Floyd",
+      "album": "Meddle",
+      "release_date": "1971",
+      "genre": "Art & Progressive Rock",
+      "rating": "*** 1/2"
     },
     {
-      "name": "Quinn Flynn",
-      "designation": "Support Lead",
-      "salary": "$342,000",
-      "joining_date": "2013/03/03",
-      "office": "Edinburgh",
-      "extension": "9497"
+      "song": "Ruby Tuesday",
+      "artist": "The Rolling Stones",
+      "album": "Through the Past Darkly",
+      "release_date": "1969",
+      "genre": "Rock",
+      "rating": "*** 1/2"
     }
   ]
 }

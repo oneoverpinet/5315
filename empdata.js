@@ -1,7 +1,7 @@
 {
   "data": [
     {
-      "customer": "Bob Smith"
+      "customer": "Bob Smith",
       "song": "The House that Jack Built",
       "artist": "Aretha Franklin",
       "album": "The Queen of Soul",
@@ -10,7 +10,7 @@
       "rating": "****"
     },
     {
-      "customer": "Jane Doe"
+      "customer": "Jane Doe",
       "song": "Help!",
       "artist": "The Beatles",
       "album": "Help!",
@@ -19,7 +19,7 @@
       "rating": "****"
     },
     {
-      "customer": "Peter Bradley"
+      "customer": "Peter Bradley",
       "song": "Redemption Song",
       "artist": "Bob Marley",
       "album": "Uprising",
@@ -28,7 +28,7 @@
       "rating": "***"
     },
     {
-      "customer": "Theresa Davidson"
+      "customer": "Theresa Davidson",
       "song": "Everyday",
       "artist": "Buddy Holly",
       "album": "Buddy Holly - Not Fade Away",
@@ -37,7 +37,7 @@
       "rating": "****"
     },
     {
-      "customer": "Greg Thompson"
+      "customer": "Greg Thompson",
       "song": "Wooden Ships",
       "artist": "Crosby, Stills, and Nash",
       "album": "Crosby, Stills, and Nash",
@@ -46,7 +46,7 @@
       "rating": "****"
     },
     {
-      "customer": "Sara Carpenter"
+      "customer": "Sara Carpenter",
       "song": "Song for Bob Dylan",
       "artist": "David Bowie",
       "album": "Hunky Dory",
@@ -55,7 +55,7 @@
       "rating": "****"
     },
     {
-      "customer": "David Mark"
+      "customer": "David Mark",
       "song": "Summertime",
       "artist": "Dinah Washington",
       "album": "Dinah Jams",
@@ -64,7 +64,7 @@
       "rating": "****"
     },
     {
-      "customer": "Tom Peterson"
+      "customer": "Tom Peterson",
       "song": "Helpin Hand",
       "artist": "Dr. John",
       "album": "The Blues Biography",
@@ -73,7 +73,7 @@
       "rating": "****"
     },
     {
-      "customer": "Steven Seles"
+      "customer": "Steven Seles",
       "song": "I Asked for Water",
       "artist": "Howlin' Wolf",
       "album": "His Best: The Chess 50th Anniversary Collection",
@@ -82,7 +82,7 @@
       "rating": "****"
     },
     {
-      "customer": "Greta Gernes"
+      "customer": "Greta Gernes",
       "song": "Wait Until Tomorrow",
       "artist": "Jimi Hendrix",
       "album": "Axis: Bold as Love",
@@ -91,7 +91,7 @@
       "rating": "***"
     },
     {
-      "customer": "Doreen Gomez"
+      "customer": "Doreen Gomez",
       "song": "Instant Karma",
       "artist": "John Lennon",
       "album": "The John Lennon Collection",
@@ -100,7 +100,7 @@
       "rating": "****"
     },
     {
-      "customer": "Karen Jones"
+      "customer": "Karen Jones",
       "song": "Move",
       "artist": "Miles Davis",
       "album": "Birth of the Cool",
@@ -109,7 +109,7 @@
       "rating": "****"
     },
     {
-      "customer": "Travis Day"
+      "customer": "Travis Day",
       "song": "Heart of Gold",
       "artist": "Neil Young",
       "album": "Harvest",
@@ -118,7 +118,7 @@
       "rating": "****"
     },
     {
-      "customer": "Brad Stevens"
+      "customer": "Brad Stevens",
       "song": "One of these Days",
       "artist": "Pink Floyd",
       "album": "Meddle",
@@ -127,7 +127,7 @@
       "rating": "*** 1/2"
     },
     {
-      "customer": "Todd Jensen"
+      "customer": "Todd Jensen",
       "song": "Ruby Tuesday",
       "artist": "The Rolling Stones",
       "album": "Through the Past Darkly",

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
   <employees>
     <data>
+      <customer>Bob Smith</customer>
       <song>The House that Jack Built</song>
       <artist>Aretha Franklin</artist>
       <album>The Queen of Soul</album>
@@ -9,6 +10,7 @@
       <rating>****</rating>
     </data>
     <data>
+      <customer>Jane Doe</customer>
       <song>Help!</song>
       <artist>The Beatles</artist>
       <album>Help!</album>
@@ -16,7 +18,8 @@
       <genre>Rock</genre>
       <rating>****</rating>
     </data> 
-    <data>    
+    <data>  
+      <customer>Peter Bradley</customer>  
       <song>Redemption Song</song>
       <artist>Bob Marley</artist>
       <album>Uprising</album>
@@ -25,6 +28,7 @@
       <rating>***</rating>
     </data>
     <data>
+      <customer>Theresa Davidson</customer>
       <song>Everyday</song>
       <artist>Buddy Holly</artist>
       <album>Buddy Holly - Not Fade Away</album>
@@ -33,6 +37,7 @@
       <rating>****</rating>
     </data>
     <data>
+      <customer>Greg Thompson</customer>
       <song>Wooden Ships</song>
       <artist>Crosby, Stills, and Nash</artist>
       <album>Crosby, Stills, and Nash</album>
@@ -41,6 +46,7 @@
       <rating>****</rating>
     </data>
     <data>
+      <customer>Sara Carpenter</customer>
       <song>Song for Bob Dylan</song>
       <artist>David Bowie</artist>
       <album>Hunky Dory</album>
@@ -49,6 +55,7 @@
       <rating>****</rating>
     </data>
     <data>
+      <customer>David Mark</customer>
       <song>Summertime</song>
       <artist>Dinah Washington</artist>
       <album>Dinah Jams</album>
@@ -57,14 +64,16 @@
       <rating>****</rating>
     </data>
     <data>
+      <customer>Tom Peterson</customer>
       <song>Helpin Hand</song>
       <artist>Dr. John</artist>
       <album>The Blues Biography</album>
       <release_date>2006</release_date>
-      <genre>R&B</genre>
+      <genre>Rhythm and Blues</genre>
       <rating>****</rating>
     </data>
     <data>
+      <customer>Steven Seles</customer>
       <song>I Asked for Water</song>
       <artist>Howlin' Wolf</artist>
       <album>His Best: The Chess 50th Anniversary Collection</album>
@@ -73,7 +82,8 @@
       <rating>****</rating>
     </data>
     <data>
-      <song>Wait Until Tomorrow</song>
+     <customer>Greta Gernes</customer>
+     <song>Wait Until Tomorrow</song>
       <artist>Jimi Hendrix</artist>
       <album>Axis: Bold as Love</album>
       <release_date>1967</release_date>
@@ -81,6 +91,7 @@
       <rating>***</rating>
     </data>
     <data>
+      <customer>Doreen Gomez</customer>
       <song>Instant Karma</song>
       <artist>John Lennon</artist>
       <album>The John Lennon Collection</album>
@@ -89,6 +100,7 @@
       <rating>****</rating>
     </data>
     <data>
+      <customer>Karen Jones</customer>
       <song>Move</song>
       <artist>Miles Davis</artist>
       <album>Birth of the Cool</album>
@@ -97,6 +109,7 @@
       <rating>****</rating>
     </data>
     <data>
+      <customer>Travis Day</customer>
       <song>Heart of Gold</song>
       <artist>Neil Young</artist>
       <album>Harvest</album>
@@ -105,6 +118,7 @@
       <rating>****</rating>
     </data>
     <data>
+      <customer>Brad Stevens</customer>
       <song>One of these Days</song>
       <artist>Pink Floyd</artist>
       <album>Meddle</album>
@@ -113,6 +127,7 @@
       <rating>*** 1/2</rating>
     </data>
     <data>
+      <customer>Todd Jensen</customer>
       <song>Ruby Tuesday</song>
       <artist>The Rolling Stones</artist>
       <album>Through the Past Darkly</album>

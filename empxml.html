@@ -18,6 +18,7 @@
             success: function(xml) {  
              $(xml).find('data').each(function(){  
               t.row.add( [
+                $(this).find('customer').text(),
                 $(this).find('song').text(),
                 $(this).find('artist').text(),
                 $(this).find('album').text(),
@@ -36,6 +37,7 @@
   <table id="chart" class="display" cellspacing="0" width="100%">
     <thead>
         <tr>
+            <th>Customer</th>
             <th>Song</th>
             <th>Artist</th>
             <th>Album</th>
@@ -47,6 +49,7 @@
 
     <tfoot>
         <tr>
+            <th>Customer</th>
             <th>Song</th>
             <th>Artist</th>
             <th>Album</th>

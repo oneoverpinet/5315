@@ -10,6 +10,7 @@
     <table id="empTable" class="display" width="100%" cellspacing="0">
         <thead>
             <tr>
+                <th>Customer</th>
                 <th>Song</th>
                 <th>Artist</th>
                 <th>Album</th>
@@ -20,6 +21,7 @@
         </thead>
         <tfoot>
             <tr>
+                <th>Customer</th>
                 <th>Song</th>
                 <th>Artist</th>
                 <th>Album</th>
@@ -40,6 +42,7 @@
         $('#empTable').dataTable({
             "ajax": "empdata.js",
             "columns": [
+                {"data": "customer"},
                 {"data": "song"},
                 {"data": "artist"},
                 {"data": "album"},

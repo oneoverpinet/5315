@@ -1,0 +1,12 @@
+Original Variable Name                (in .xls file),Revised Variable Name           (Must have no spaces or special character use _ only),Data Description,"Data Type (May be Character, Numeric, or Date)",Data Length (just take a guess for certain character fields where length can vary),Number of Decimal Places (only applies to numeric fields),"Required?
+(Enter Yes if the data element contains actual sampled data)"
+Unique_identifier,Unique_identifier,Unique identifier,Character,13,,
+obs_trip_id,obs_trip_id,Unique identifier,Character,7,,
+haul_number,haul_number,Haul number,Numeric,3,,
+specimen_number,specimen_number,Specimen number,Numeric,3,,
+Slide Box,Slide Box,Slide box,Character,14,,
+Slide No.,Slide No.,Slide number,Numeric,3,0,
+Count,Count,Annulus count,Numeric,2,0,Yes
+Margin,Margin,Margin code,Numeric,1,0,Yes
+Quality,Quality,Quality code,Character,1,,Yes
+Comments,Comments,Comments,Character,30,,

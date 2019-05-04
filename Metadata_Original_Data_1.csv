@@ -1,0 +1,25 @@
+Original Variable Name                (in .xls file),Revised Variable Name           (Must have no spaces or special character use _ only),Data Description,"Data Type (May be Character, Numeric, or Date)",Data Length (just take a guess for certain character fields where length can vary),Number of Decimal Places (only applies to numeric fields),"Required?
+(Enter Yes if the data element contains actual sampled data)"
+Unique_identifier,Unique_identifier,Unique identifier,Character,13,,
+obs_trip_id,obs_trip_id,Trip ID,Character,7,,
+haul_number,haul_number,Haul number,Numeric,3,,
+specimen_number,specimen_number,Specimen number,Numeric,3,,
+common_name,common_name,Species common name,Character,15,,Yes
+vessel_name,vessel_name,Vessel name,Character,10,,
+depth_strata,depth_strata,Depth strata,Character,1,,
+Depth range (ft),Depth range (ft),Depth strata S= Shallow < 30 meters depth D= Deep 30-100 meters depth,Character,10,,
+haul_begin_date,haul_begin_date,Date,Date,10,,Yes
+converted_latitude_begin_haul,converted_latitude_begin_haul,Latitude of longline set,Numeric,8,5,Yes
+converted_longitude_begin_haul,converted_longitude_begin_haul,Longitude of longline set,Numeric,8,5,Yes
+Status_code,Status_code,Fish status code,Numeric,1,,
+Status_description,Status_description,Fish status condition,Character,28,,
+Action_Code,Action_Code,Action code,Numeric,1,,
+Action_description,Action_description,Action description,Character,4,,
+Fork_length,Fork_length,Fish fork length (cm),Numeric,2,,Yes
+sex,sex,Fish sex,Character,1,,Yes
+Weight(kgs),Weight(kgs),Fish weight (kg),Numeric,4,1,Yes
+Weight_description,Weight_description,Weight description,Character,12,,
+Gonad_weight(g),Gonad_weight(g),Gonad weight (g),Numeric,3,,Yes
+comment_text,comment_text,Comments,Character,30,,
+Otolith,Otolith,Otoliths collected?,Character,5,,Yes
+Gonad,Gonad,Gonads collected?,Character,5,,Yes
